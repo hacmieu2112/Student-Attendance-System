@@ -1,0 +1,14 @@
+D:\Spring2021\PRN292\Project\Project\bin\Project.dll.config
+D:\Spring2021\PRN292\Project\Project\bin\Project.dll
+D:\Spring2021\PRN292\Project\Project\bin\Project.pdb
+D:\Spring2021\PRN292\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Spring2021\PRN292\Project\Project\obj\Debug\Project.dll
+D:\Spring2021\PRN292\Project\Project\obj\Debug\Project.pdb
+D:\Spring2021\PRN292\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Doktoh\source\repos\Project\Project\bin\Project.dll.config
+C:\Users\Doktoh\source\repos\Project\Project\bin\Project.dll
+C:\Users\Doktoh\source\repos\Project\Project\bin\Project.pdb
+C:\Users\Doktoh\source\repos\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Doktoh\source\repos\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Doktoh\source\repos\Project\Project\obj\Debug\Project.dll
+C:\Users\Doktoh\source\repos\Project\Project\obj\Debug\Project.pdb
